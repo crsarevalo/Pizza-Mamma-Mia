@@ -1,0 +1,21 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+ul {
+  list-style: none;
+}
+
+.homeCard {
+  width: "18rem";
+  height: "100%";
+  padding-top: 2rem;
+}
+
+.imgCart {
+  max-width: 8rem;
+  min-width: 8rem;
+}
